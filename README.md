@@ -16,10 +16,9 @@ Interactive web app to visualize recent earthquakes worldwide using the USGS Ear
 npm create vite@latest earthquake-visualizer -- --template react
 cd earthquake-visualizer
 
-# 2) Replace the generated files with those from this repo (copy/paste all files)
 
-# 3) Install deps
+# 2) Install deps
 npm install
 
-# 4) Run dev server
+# 3) Run dev server
 npm run dev
